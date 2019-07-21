@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Zombie.Plugins", "VR Zombie.Plugins.csproj", "{6D92A622-CE91-F58D-F373-4FC0A856BDDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Zombie", "VR Zombie.csproj", "{20A3C515-54F7-2CAE-7C1A-B24A4DE17263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Zombie.Editor.Plugins", "VR Zombie.Editor.Plugins.csproj", "{D5A46962-4FB1-8C39-4C96-2D36B4A9B185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Zombie.Editor", "VR Zombie.Editor.csproj", "{240468FC-0DCD-1176-5329-9ACD78F35FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D92A622-CE91-F58D-F373-4FC0A856BDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D92A622-CE91-F58D-F373-4FC0A856BDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D92A622-CE91-F58D-F373-4FC0A856BDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D92A622-CE91-F58D-F373-4FC0A856BDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A3C515-54F7-2CAE-7C1A-B24A4DE17263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A3C515-54F7-2CAE-7C1A-B24A4DE17263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A3C515-54F7-2CAE-7C1A-B24A4DE17263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A3C515-54F7-2CAE-7C1A-B24A4DE17263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A46962-4FB1-8C39-4C96-2D36B4A9B185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A46962-4FB1-8C39-4C96-2D36B4A9B185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A46962-4FB1-8C39-4C96-2D36B4A9B185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A46962-4FB1-8C39-4C96-2D36B4A9B185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240468FC-0DCD-1176-5329-9ACD78F35FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240468FC-0DCD-1176-5329-9ACD78F35FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240468FC-0DCD-1176-5329-9ACD78F35FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240468FC-0DCD-1176-5329-9ACD78F35FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
